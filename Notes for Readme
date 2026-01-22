@@ -1,0 +1,24 @@
+Instructions
+## Creating table in pgadming
+CREATE TABLE audit (
+    log_id SERIAL PRIMARY KEY,
+    audit_id VARCHAR(50),
+	auditor VARCHAR(50),
+	agent VARCHAR(50),
+	case_id  VARCHAR(50),
+	case_type VARCHAR(50),
+	case_subtype VARCHAR(50),
+	description TEXT,
+	severity INT,
+	audit_result VARCHAR (50),
+	was_reworked BOOL,
+	rework_number INT
+	audit_time TIMESTAMP
+);
+
+## Copying the table from CSV into pgadmin
+\copy audit (audit_id, auditor, agent, case_id, case
+_type, case_subtype, description, severity, audit_result, was_rewor
+ked, rework_number, audit_time) FROM 'C:/Users/VICTUS/Documents/Git
+Hub/sql-quality-data/Audit Table.csv' WITH (FORMAT CSV, HEADER true
+, DELIMITER ';');

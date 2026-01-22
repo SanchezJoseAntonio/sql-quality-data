@@ -1,46 +1,46 @@
-﻿Audit_id;Auditor Name;Agent Name;Case ID;Case_type;Case_subtype;Error Description;Severity;Audit_result;Was_reworked;Number of Reworks;Audit_time;
-A-236551;John;Gabriel;C-1486973;A;C;Big process mistake;8;Rework  needed;0;0;19/11/2025 0:02;
-A-17854;Pilar;Peter;C-339033;C;C;No error found;0;Rework not needed;0;0;19/11/2025 0:05;
-A-21686;Marco;Robert;C-8746861;A;A;No mistakes;0;Rework not needed;0;0;19/11/2025 1:18;
-A-25195;Nicolas;Stephen;C-8571741;B;D;Typo found;1;Rework needed;0;0;19/11/2025 1:30;
-A-26740;Dylan;Carla;C-2210012;E;D;Incorrect text;2;Rework needed;0;0;19/11/2025 1:34;
-A-5822;Mark;Pedro;C-6151197;B;B;.;0;Rework not needed;0;0;19/11/2025 1:38;
-A-81046;Sharon;Glenda;C-2210012;D;B;Corrections 5.4, 6.7 and 8.9 needed;9;Rework needed;1;1;19/11/2025 2:18;
-A-8007;John;Gabriel;C-5017902;B;H;Incorrect process, engineering ticket needed;6;Rework needed;0;0;19/11/2025 3:22;
-A-31258;Pilar;Stephen;C-1745546;A;C;Pretty good job, but some incorrect fields;4;Rework needed;0;0;19/11/2025 3:45;
-A-6157;Freddy;Carla;C-7377368;B;C;NA;0;Rework not needed;0;0;19/11/2025 5:02;
-A-6109;Juana;Sorina;C-9257746;H;C;Minor data-entry errors present;3;Rework needed;0;0;19/11/2025 5:17;
-A-78540;Dylan;Victor;C-4161511;B;A;NA;2;Rework ;0;0;19/11/2025 5:22;
-A-49557;Mark;Pedro;C-4142191;A;A;No issues identified;0;Rework not needed;0;0;19/11/2025 5:28;
-A-83971;Sharon;Conor;C-7861881;B;B;No discrepancies observed;0;Rework not needed;0;0;19/11/2025 5:43;
-A-99934;John;Sorina;C-5048122;F;C;Incorrect format for approval;1;Rework needed;0;0;19/11/2025 6:45;
-A-46657;Pilar;Victor;C-3172866;B;C;Major process deviation detected;9;Rework needed;0;0;19/11/2025 7:44;
-A-25121;Marco;Pedro;C-4142191;A;A;Spelling error identified in documentation;9;Rework needed;0;0;19/11/2025 7:59;
-A-11939;Juana;Conor;C-7243096;C;B;"Evidence incomplete; additional support needed";1;Rework needed;0;0;19/11/2025 8:55;
-A-2151;Dylan;Gabriel;C-8949573;A;A;Incorrect wording in report section;7;Rework needed;0;0;19/11/2025 9:06;
-A-68810;Mark;Peter;C-1860776;A;A;"Incomplete comment; clarification required";7;Rework needed;0;0;19/11/2025 9:18;
-A-9439;Sharon;Pedro;C-8544339;E;B;Corrections to sections 3.2, 4.1 and 7.5 required;10;Rework needed;0;0;19/11/2025 10:56;
-A-91709;John;Conor;C-7904214;B;A;Wrong results as decimals not used;3;Rework needed;0;0;19/11/2025 12:22;
-A-51628;Pilar;Gabriel;C-7204966;H;C;Metrics calculated using incorrect method;9;Rework needed;0;0;19/11/2025 13:04;
-A-95022;Marco;Sorina;C-6880242;B;B;Non critical documentation missing;4;Rework needed;0;0;19/11/2025 13:40;
-A-16304;Juana;Victor;C-2160747;A;A;Incorrect format ;3;Rework needed;0;0;19/11/2025 14:21;
-A-38031;Dylan;Pedro;C-3049497;B;B;Incorrect process followed;4;Rework needed;0;0;19/11/2025 14:34;
-A-59034;Mark;Conor;C-1357940;A;A;Rework not needed;0;Rework not needed;0;0;19/11/2025 14:45;
-A-65736;Sharon;Gabriel;C-3102411;B;B;Non-compliant workflow used, follow-up ticket required;10;Rework not needed;0;0;19/11/2025 15:18;
-A-33456;John;Peter;C-1860776;A;A;Significant control failure in approval step;9;Rework;1;1;19/11/2025 15:32;
-A-31025;Henry;Robert;C-1860776;A;A;Major critical issue;9;Rework needed;1;2;19/11/2025 16:25;
-A-9735;Marco;Stephen;C-3983618;A;A;Minor error in data-entry;2;Rework  need;0;0;19/11/2025 16:27;
-A-9735;Marco;Stephen;C-3983618;A;A;"Observation withdrawn after re-check; no issue found";0;Rework not needed;1;1;19/11/2025 16:27;
-A-2028;Marco;Carla;C-5422023;A;B;Overall acceptable, but several fields require correction;5;Rework needed;0;0;19/11/2025 17:06;
-A-16361;Juana;Sorina;C-1963427;A;B;(;10;Rework needed;0;0;19/11/2025 17:08;
-A-93664;John;Sorina;C-5083872;B;B;No need;0;Rework not needed;0;0;19/11/2025 17:39;
-A-36341;Pilar;Bob;C-765111;A;A;Formatting inconsistencies throughout document;1;Rework needed;0;0;19/11/2025 18:11;
-A-99031;Marco;Conor;C-3689269;B;C;Missing mandatory reference or attachment;8;Rework needed;0;0;19/11/2025 18:16;
-A-30245;Juana;Gabriel;C-7263682;A;B;No rework needed;0;Rework not needed;0;0;19/11/2025 18:23;
-A-67154;Dylan;Sorina;C-402209;B;A;Very different results from expected;8;Rework needed;0;0;19/11/2025 20:47;
-A-29997;Mark;Victor;C-4599155;B;B;Good job, no errors;0;Rework not needed;0;0;19/11/2025 21:07;
-A-80190;John;Stephen;C-5934409;B;A;Key requirement not implemented as specified;10;Rework needed;0;0;19/11/2025 21:32;
-A-6294;Pilar;Carla;C-4476262;C;C;missing email;5;Rework needed;0;0;19/11/2025 21:44;
-A-19936;Marco;Sorina;C-3158440;B;B;NA;0;Rework not needed;0;0;19/11/2025 22:03;
-A-93981;Juana;Victor;C-5116692;A;A;Procedure followed, but documentation missing details;1;Rework need;0;0;19/11/2025 22:40;
-A-86468;Dylan;Pedro;C-8693918;A;A;Nothing wrong found;0;Rework not needed;0;0;19/11/2025 23:10;
+﻿audit_id;auditor;agent;case_id;case_type;case_subtype;description;severity;audit_result;was_reworked;rework_number;audit_time
+A-236551;John;Gabriel;C-1486973;A;C;Big process mistake;8;Rework  needed;0;0;19/11/2025 0:02
+A-17854;Pilar;Peter;C-339033;C;C;No error found;0;Rework not needed;0;0;19/11/2025 0:05
+A-21686;Marco;Robert;C-8746861;A;A;No mistakes;0;Rework not needed;0;0;19/11/2025 1:18
+A-25195;Nicolas;Stephen;C-8571741;B;D;Typo found;1;Rework needed;0;0;19/11/2025 1:30
+A-26740;Dylan;Carla;C-2210012;E;D;Incorrect text;2;Rework needed;0;0;19/11/2025 1:34
+A-5822;Mark;Pedro;C-6151197;B;B;.;0;Rework not needed;0;0;19/11/2025 1:38
+A-81046;Sharon;Glenda;C-2210012;D;B;Corrections 5.4, 6.7 and 8.9 needed;9;Rework needed;1;1;19/11/2025 2:18
+A-8007;John;Gabriel;C-5017902;B;H;Incorrect process, engineering ticket needed;6;Rework needed;0;0;19/11/2025 3:22
+A-31258;Pilar;Stephen;C-1745546;A;C;Pretty good job, but some incorrect fields;4;Rework needed;0;0;19/11/2025 3:45
+A-6157;Freddy;Carla;C-7377368;B;C;NA;0;Rework not needed;0;0;19/11/2025 5:02
+A-6109;Juana;Sorina;C-9257746;H;C;Minor data-entry errors present;3;Rework needed;0;0;19/11/2025 5:17
+A-78540;Dylan;Victor;C-4161511;B;A;NA;2;Rework ;0;0;19/11/2025 5:22
+A-49557;Mark;Pedro;C-4142191;A;A;No issues identified;0;Rework not needed;0;0;19/11/2025 5:28
+A-83971;Sharon;Conor;C-7861881;B;B;No discrepancies observed;0;Rework not needed;0;0;19/11/2025 5:43
+A-99934;John;Sorina;C-5048122;F;C;Incorrect format for approval;1;Rework needed;0;0;19/11/2025 6:45
+A-46657;Pilar;Victor;C-3172866;B;C;Major process deviation detected;9;Rework needed;0;0;19/11/2025 7:44
+A-25121;Marco;Pedro;C-4142191;A;A;Spelling error identified in documentation;9;Rework needed;0;0;19/11/2025 7:59
+A-11939;Juana;Conor;C-7243096;C;B;"Evidence incomplete; additional support needed";1;Rework needed;0;0;19/11/2025 8:55
+A-2151;Dylan;Gabriel;C-8949573;A;A;Incorrect wording in report section;7;Rework needed;0;0;19/11/2025 9:06
+A-68810;Mark;Peter;C-1860776;A;A;"Incomplete comment; clarification required";7;Rework needed;0;0;19/11/2025 9:18
+A-9439;Sharon;Pedro;C-8544339;E;B;Corrections to sections 3.2, 4.1 and 7.5 required;10;Rework needed;0;0;19/11/2025 10:56
+A-91709;John;Conor;C-7904214;B;A;Wrong results as decimals not used;3;Rework needed;0;0;19/11/2025 12:22
+A-51628;Pilar;Gabriel;C-7204966;H;C;Metrics calculated using incorrect method;9;Rework needed;0;0;19/11/2025 13:04
+A-95022;Marco;Sorina;C-6880242;B;B;Non critical documentation missing;4;Rework needed;0;0;19/11/2025 13:40
+A-16304;Juana;Victor;C-2160747;A;A;Incorrect format ;3;Rework needed;0;0;19/11/2025 14:21
+A-38031;Dylan;Pedro;C-3049497;B;B;Incorrect process followed;4;Rework needed;0;0;19/11/2025 14:34
+A-59034;Mark;Conor;C-1357940;A;A;Rework not needed;0;Rework not needed;0;0;19/11/2025 14:45
+A-65736;Sharon;Gabriel;C-3102411;B;B;Non-compliant workflow used, follow-up ticket required;10;Rework not needed;0;0;19/11/2025 15:18
+A-33456;John;Peter;C-1860776;A;A;Significant control failure in approval step;9;Rework;1;1;19/11/2025 15:32
+A-31025;Henry;Robert;C-1860776;A;A;Major critical issue;9;Rework needed;1;2;19/11/2025 16:25
+A-9735;Marco;Stephen;C-3983618;A;A;Minor error in data-entry;2;Rework  need;0;0;19/11/2025 16:27
+A-9735;Marco;Stephen;C-3983618;A;A;"Observation withdrawn after re-check; no issue found";0;Rework not needed;1;1;19/11/2025 16:27
+A-2028;Marco;Carla;C-5422023;A;B;Overall acceptable, but several fields require correction;5;Rework needed;0;0;19/11/2025 17:06
+A-16361;Juana;Sorina;C-1963427;A;B;(;10;Rework needed;0;0;19/11/2025 17:08
+A-93664;John;Sorina;C-5083872;B;B;No need;0;Rework not needed;0;0;19/11/2025 17:39
+A-36341;Pilar;Bob;C-765111;A;A;Formatting inconsistencies throughout document;1;Rework needed;0;0;19/11/2025 18:11
+A-99031;Marco;Conor;C-3689269;B;C;Missing mandatory reference or attachment;8;Rework needed;0;0;19/11/2025 18:16
+A-30245;Juana;Gabriel;C-7263682;A;B;No rework needed;0;Rework not needed;0;0;19/11/2025 18:23
+A-67154;Dylan;Sorina;C-402209;B;A;Very different results from expected;8;Rework needed;0;0;19/11/2025 20:47
+A-29997;Mark;Victor;C-4599155;B;B;Good job, no errors;0;Rework not needed;0;0;19/11/2025 21:07
+A-80190;John;Stephen;C-5934409;B;A;Key requirement not implemented as specified;10;Rework needed;0;0;19/11/2025 21:32
+A-6294;Pilar;Carla;C-4476262;C;C;missing email;5;Rework needed;0;0;19/11/2025 21:44
+A-19936;Marco;Sorina;C-3158440;B;B;NA;0;Rework not needed;0;0;19/11/2025 22:03
+A-93981;Juana;Victor;C-5116692;A;A;Procedure followed, but documentation missing details;1;Rework need;0;0;19/11/2025 22:40
+A-86468;Dylan;Pedro;C-8693918;A;A;Nothing wrong found;0;Rework not needed;0;0;19/11/2025 23:10
